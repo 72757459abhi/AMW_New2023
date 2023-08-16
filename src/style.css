@@ -1,0 +1,25 @@
+@media screen and (max-width: 600px) {
+
+
+    body{
+    
+    }
+    .faqWrapper{
+      display: block;
+    }
+    .faqTextidv{
+      width: 100%;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+  
+  .faqWrapper{
+    display: block;
+  }
+
+  .faqTextidv{
+      width: 100%;
+    }
+
+}
